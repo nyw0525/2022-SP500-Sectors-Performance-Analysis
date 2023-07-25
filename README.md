@@ -1,0 +1,1 @@
+# 2022-SP500-Sectors-Performance-Analysis
